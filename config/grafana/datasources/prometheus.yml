@@ -1,3 +1,4 @@
+#Configures Prometheus as a Grafana data source.
 apiVersion: 1
 
 datasources:
